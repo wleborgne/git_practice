@@ -11,3 +11,11 @@
 Hello  
 Goodbye! Thanks for all the fish!  
 I'll be back!  
+
+## Testing code blocks
+
+```
+puts 'Hello!'
+puts 'Another line!'
+```
+
